@@ -62,6 +62,7 @@ body {
 }
 .author {
     width: 60%;
+    justify-content: flex-start;
 }
 .author-text {
     white-space: nowrap;
