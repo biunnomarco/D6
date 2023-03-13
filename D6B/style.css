@@ -20,7 +20,12 @@ a {
 }
 h2{padding-top: 40px;}
 h4 {padding-bottom: 40px;}
-h5 {margin: 10px;}
+h5 {
+    margin: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
 footer{text-align: center;}
 span {
     margin-top: 5px;
