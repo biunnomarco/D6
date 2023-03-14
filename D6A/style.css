@@ -99,3 +99,6 @@ body {
 .container:hover .overlay{
     opacity: 0.4;
 }
+button {
+    cursor: pointer;
+}
